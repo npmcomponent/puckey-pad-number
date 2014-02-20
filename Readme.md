@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [puckey/pad-number](http://github.com/puckey/pad-number). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/puckey-pad-number`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # pad-number
 
   Component: convert a number to a string with n leading zeroes.
